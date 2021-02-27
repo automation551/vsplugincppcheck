@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "C:/Users/Saurabh.Patil/source/repos/ConsoleApplication1",
+    "command": "clang-tool -fms-extensions -fms-compatibility -fms-compatibility-version=19  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/atlmfc/include\"  -isystem \"C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Auxiliary/VS/include\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/ucrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/um\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/shared\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/winrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/10/Include/10.0.17763.0/cppwinrt\"  -isystem \"C:/Program Files (x86)/Windows Kits/NETFXSDK/4.6.1/Include/um\"  -D _DEBUG  -D _MT  -D _DLL  -D WIN32  -D _CONSOLE  -D _UNICODE  -D UNICODE -std=  \"C:/Users/Saurabh.Patil/source/repos/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp\"",
+    "file": "C:/Users/Saurabh.Patil/source/repos/ConsoleApplication1/ConsoleApplication1/ConsoleApplication1.cpp"
+  }
+]
